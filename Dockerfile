@@ -1,4 +1,4 @@
-# Use an official Python runtime as a parent image
+# Use an official Python runtime as a parent image version2
 FROM python:3.6-slim
 
 # Set the working directory to /docker/services/app
